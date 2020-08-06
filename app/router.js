@@ -7,6 +7,8 @@ export default class Router extends EmberRouter {
 }
 
 Router.map(function() {
+  this.route('index', function() {
+  });
   this.route('general', function() {
     this.route('button');
     this.route('image');
