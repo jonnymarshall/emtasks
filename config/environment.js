@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'emtasks',
+    modulePrefix: 'lee-and-wrangler',
     environment,
     rootURL: '/',
     locationType: 'auto',
