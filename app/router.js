@@ -17,7 +17,7 @@ Router.map(function() {
     this.route('standard-text-positions');
     this.route('mobile-text-position-examples');
     this.route('customised-styling-examples');
-    this.route('Banner hover styles');
+    this.route('banner-hover-styles');
     this.route('banner-grid');
     this.route('banner-hotspot');
   });
